@@ -1,6 +1,7 @@
 #Assignment 5 – Simple Retrieval-Augmented Generation (RAG)
 
 #Written by Edgar 
+
 #Embedding Model: sentence-transformers/all-MiniLM-L6-v2  
 #LLM: google/flan-t5-small  
 
